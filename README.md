@@ -2,13 +2,14 @@
 
 This repository contains a collection of mini-projects showcasing the use of various AWS services. Each project focuses on a specific task or use case, providing hands-on experience with serverless architecture and AWS cloud services.
 
-## Projects Included
+## Projects
+- [AWS Tutorial CRUD API with Lambda and DynamoDB](https://github.com/AdrianMarasigan/AWS-Services-Mini-Projects/tree/main/AWS%20Tutorial%20CRUD%20API%20with%20AWS%20Lambda%20and%20DynamoDB)
+- [Image Processing with AWS Lambda and S3](https://github.com/AdrianMarasigan/AWS-Services-Mini-Projects/tree/main/Image%20Processing%20with%20AWS%20Lambda%20and%20S3)
+- [Serverless Contact Form with AWS Lambda and API Gateway](https://github.com/AdrianMarasigan/AWS-Services-Mini-Projects/tree/main/Serverless%20Contact%20Form%20with%20AWS%20Lambda%20and%20API%20Gateway)
+- [Serverless Data Analysis with AWS Lambda and Amazon Athena](https://github.com/AdrianMarasigan/AWS-Services-Mini-Projects/tree/main/Serverless%20Data%20Analysis%20with%20AWS%20Lambda%20and%20Amazon%20Athena)
+- [Serverless Email Notifications with AWS Lambda and Amazon SES](https://github.com/AdrianMarasigan/AWS-Services-Mini-Projects/tree/main/Serverless%20Email%20Notifications%20with%20AWS%20Lambda%20and%20Amazon%20SES)
+- [Serverless Web Scraping with AWS Lambda and Selenium](https://github.com/AdrianMarasigan/AWS-Services-Mini-Projects/tree/main/Serverless%20Web%20Scraping%20with%20AWS%20Lambda%20and%20Selenium)
 
-1. **Image Processing with AWS Lambda and S3**
-   - Automatically processes images uploaded to an S3 bucket using AWS Lambda and the Pillow library.
-
-2. **Serverless Email Notifications with AWS Lambda and Amazon SES**
-   - Sends email notifications using AWS Lambda and Amazon SES, demonstrating serverless email functionality.
 
 ## How to Use
 
