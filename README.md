@@ -1,6 +1,6 @@
-# AWS Services Mini-Projects
+# AWS Mini-Projects
 
-This repository contains a collection of mini-projects showcasing the use of various AWS services. Each project focuses on a specific task or use case, providing hands-on experience with serverless architecture and AWS cloud services.
+This repository contains a collection of mini-projects showcasing the use of services within AWS. Each project focuses on a specific task or use case, providing hands-on experience with serverless architecture and AWS cloud services.
 
 ## Projects
 - [AWS Tutorial CRUD API with Lambda and DynamoDB](https://github.com/AdrianMarasigan/AWS-Services-Mini-Projects/tree/main/AWS%20Tutorial%20CRUD%20API%20with%20AWS%20Lambda%20and%20DynamoDB)
